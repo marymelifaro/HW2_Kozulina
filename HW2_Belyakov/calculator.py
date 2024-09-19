@@ -1,5 +1,5 @@
 def adding(a, b):
-    pass
+    return(a+b)
 
 
 def diff(a, b):
