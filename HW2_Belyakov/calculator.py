@@ -7,11 +7,11 @@ def diff(a, b):
 
 
 def mult(a, b):
-    pass
+    return(a*b)
 
 
 def division(a, b):
-    pass
+    return(a/b)
 
 
 def main():
