@@ -3,15 +3,15 @@ def adding(a, b):
 
 
 def diff(a, b):
-    pass
+    return a - b
 
 
 def mult(a, b):
-    pass
+    return(a*b)
 
 
 def division(a, b):
-    pass
+    return(a/b)
 
 
 def main():
